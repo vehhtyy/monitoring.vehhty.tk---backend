@@ -1,3 +1,3 @@
-# PanSprezynka-server
+# monitoring.vehhty.tk - backend
 
-Backend for PanSprezynka site, which monitore viewers and chatters during streams on twitch.
+Backend for monitoring.vehhty.tk site, which monitore viewers and chatters during streams on twitch.
