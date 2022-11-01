@@ -1,0 +1,6 @@
+$ npm install config
+$ mkdir config
+$ vi config/default.json
+{
+  "mongoURI": "mongodb+srv://vehhty:<password>@cluster0.xy0v0r1.mongodb.net/?retryWrites=true&w=majority"
+}
