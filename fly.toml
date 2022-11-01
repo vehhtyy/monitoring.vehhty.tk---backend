@@ -1,6 +1,6 @@
-# fly.toml file generated for pansprezynka-server on 2022-09-12T11:55:46+02:00
+# fly.toml file generated for monitoringvehhty on 2022-09-12T11:55:46+02:00
 
-app = "pansprezynka-server"
+app = "monitoringvehhty"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
